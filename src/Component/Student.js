@@ -11,7 +11,6 @@ export default function Student ()  {
     {
         student.id=students.length+1;
         setStudent([...students,student]);
-
     }
     const deleteStudent =(id)=>{
         setStudent(students.filter(student=>student.id!==id));   

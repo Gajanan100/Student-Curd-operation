@@ -20,7 +20,6 @@ const Navbar = () => {
 <li class="nav-item">
   <a class="nav-link" href="/student">Student</a>
 </li>
-
 <li class="nav-item">
   <a class="nav-link" href="/post">Post</a>
 </li>
